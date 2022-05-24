@@ -1,0 +1,38 @@
+{
+  "locations": [
+    {
+      "category": "Jakarta Selatan",
+      "location_details": [
+        {
+          "id": 1,
+          "name_location": "226D3",
+          "address": "67.1",
+          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+        },
+        {
+          "id": 2,
+          "name_location": "232D3",
+          "address": "67.3",
+          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+        },
+        {
+          "id": 3,
+          "name_location": "AASAS",
+          "address": "65.3",
+          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+        }
+      ]
+    },
+    {
+      "category": "Jakarta Pusat",
+      "location_details": [
+        {
+          "id": 1,
+          "name_location": "301.7 CR",
+          "address": "21",
+          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+        }
+      ]
+    }
+  ]
+}
