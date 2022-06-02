@@ -47,7 +47,7 @@ export default function SearchFilter() {
                 <select
                   value={selectedCategory}
                   onChange={(e) => setSelectedCategory(e.target.value)}
-                  className="product-dropdown"
+                  className="product-dropdown search-safari"
                   name="product-dropdown"
                 >
                   <option value="All">Select an Area</option>

@@ -1,36 +1,585 @@
 {
   "locations": [
     {
-      "category": "Jakarta Selatan",
+      "category": "BALI",
       "location_details": [
         {
-          "id": 1,
-          "name_location": "226D3",
-          "address": "67.1",
-          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
-        },
-        {
-          "id": 2,
-          "name_location": "232D3",
-          "address": "67.3",
-          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
-        },
-        {
-          "id": 3,
-          "name_location": "AASAS",
-          "address": "65.3",
-          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+          "id": "1",
+          "name_location": "STIKOM",
+          "address": "Stikom Bali Kampus Jimbaran Jl. Raya Kampus Unud Kuta Selatan Badung Bali",
+          "map": "https://www.google.com/maps/dir//-8.78718, 115.17775"
         }
       ]
     },
     {
-      "category": "Jakarta Pusat",
+      "category": "BANDUNG",
+      "location_details": [
+        {
+          "id": "1",
+          "name_location": "BRAGA",
+          "address": "Jl. Braga No.59 Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111",
+          "map": "https://www.google.com/maps/dir//-6.91825, 107.60939"
+        }
+      ]
+    },
+    {
+      "category": "BEKASI",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "MEGA BEKASI HYPERMALL (Lantai G, Depan Food Carnival)",
+            "address": "Mega Mall Bekasi Lt.3, Jl. Jend. Ahmad Yani No.1, RT.004/RW.001, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141 ",
+            "map": "https://www.google.com/maps/dir//-6.240478002997788, 106.9933244971099"
+        },
+        {
+            "id": "2",
+            "name_location": "RAMAYANA",
+            "address": "Jl. Ir. H. Juanda, RT.001/RW.001, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",
+            "map": "https://www.google.com/maps/dir//-6.2475415, 107.0111554"
+        },
+        {
+            "id": "3",
+            "name_location": "GRAND GALAXY",
+            "address": "Jl. Pulo Sirih Utama FE.333, Boulevard Grand Galaxy City, RT.001/RW.015, Jaka Setia, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17147",
+            "map": "https://www.google.com/maps/dir//-6.26572, 106.97193"
+        },
+        {
+            "id": "4",
+            "name_location": "JATIWARNA",
+            "address": "Jalan Raya Hankam Pondok, Jl. Melati, RT.001/RW.005, Jatimelati, Kec. Pd. Melati, Kota Bks, Jawa Barat 17415",
+            "map": "https://www.google.com/maps/dir//-6.31245, 106.92487"
+        },
+        {
+            "id": "5",
+            "name_location": "JATIWARINGIN  (Sebelah Masjid Al-Ihya Bekasi)",
+            "address": "Jl. Raya Jatiwaringin No. 209A. Kel. Jaticempaka, Kec. Pondok Gede, Bekasi",
+            "map": "https://www.google.com/maps/dir//-6.263666463187305, 106.91110947668919"
+        },
+        {
+            "id": "6",
+            "name_location": "BINTARA",
+            "address": "Universitas Pakuan Bogor Jl. Pakuan Bogor Tengah Kota Bogor",
+            "map": "https://www.google.com/maps/dir//-6.23278, 106.96445"
+        },
+        {
+            "id": "7",
+            "name_location": "KARANG SATRIA",
+            "address": "Jl. Raya Karang Satria Kec. Tambun Utara Kab. Bekasi",
+            "map": "https://www.google.com/maps/dir//-6.21948, 107.03355"
+        },
+        {
+            "id": "8",
+            "name_location": "PONDOK UNGU",
+            "address": "Kavling Rawasllam III Gg. Rose I No. 1 Kec. Bebelan, Kab. Bekasi",
+            "map": "https://www.google.com/maps/dir//-6.18958, 107.00722"
+        },
+        {
+            "id": "9",
+            "name_location": "PERWIRA",
+            "address": "Jl. KH. Muchtar Tabrani RT 006 RW 003 Perwira Kec. Bekasi Utara",
+            "map": "https://www.google.com/maps/dir//-6.22182, 107.00336"
+        }
+      ]
+    },
+    {
+      "category": "BOGOR",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "BOTANI SQUARE (Lantai 3, Depam Eatery)",
+            "address": "Jl. Raya Padjajaran, Botani Mall Square",
+            "map": "https://www.google.com/maps/dir//-6.600818660347997, 106.8078057613742"
+        },
+        {
+            "id": "2",
+            "name_location": "SHOLEH ISKANDAR",
+            "address": "Jl. Sholeh Iskandar RT 03, RT.04/RW.5, Kedung Jaya, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16164",
+            "map": "https://www.google.com/maps/dir//-6.55878, 106.78567"
+        },
+        {
+            "id": "3",
+            "name_location": "DRAMAGA",
+            "address": "Jl. Nasional 11 No.42, Dramaga, Kec. Dramaga, Kabupaten Bogor, Jawa Barat 16680",
+            "map": "https://www.google.com/maps/dir//-6.570326, 106.73945"
+        },
+        {
+            "id": "4",
+            "name_location": "RAMAYANA PARUNG",
+            "address": "Jl. Raya Parung, Parung, Kec. Parung, Bogor, Jawa Barat 16330",
+            "map": "https://www.google.com/maps/dir//-6.41903, 106.73400"
+        },
+        {
+            "id": "5",
+            "name_location": "RAMAYANA CIBUBUR",
+            "address": "Alamat: Jl. Lap. Tembak No. 8 RT 01/RW 11, Cibubur, Kec Ciracas, Bogor, Jawa Barat 13720",
+            "map": "https://www.google.com/maps/dir//-6.390247451771336, 106.82509619943758"
+        },
+        {
+            "id": "6",
+            "name_location": "UNPAK",
+            "address": "Universitas Pakuan Bogor Jl. Pakuan Bogor Tengah Kota Bogor",
+            "map": "https://www.google.com/maps/dir//-6.59980, 106.81188"
+        },
+        {
+            "id": "7",
+            "name_location": "PANDU RAYA",
+            "address": "Jl. Achmad Adnawijaya, RT.06/RW.15, Tegal Gundil, Kec. Bogor Utara, Kota Bogor",
+            "map": "https://www.google.com/maps/dir//-6.56993, 106.81220"
+        }
+      ]
+    },
+    {
+      "category": "CIBINONG",
       "location_details": [
         {
           "id": 1,
-          "name_location": "301.7 CR",
-          "address": "21",
-          "map": "https://www.google.com/maps/dir//-6.2235054,106.7231335"
+          "name_location": "CIBINONG CITY (Lantai 1, Depan Imperial Kitchen & Dinsum)",
+          "address": "Cibinong City Mall Lt.1, Jl. Tegar Beriman No.1 Pakansari Cibinong Bogor",
+          "map": "https://www.google.com/maps/dir//-6.483964331996708, 106.84238739896246"
+        }
+      ]
+    },
+    {
+      "category": "DEPOK",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "KELAPA DUA",
+            "address": "Jl. Akses UI RT.002/RW. 009 No.60, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+            "map": "https://www.google.com/maps/dir//-6.35480, 106.84113"
+        },
+        {
+            "id": "2",
+            "name_location": "ALTERNATIF CIBUBUR",
+            "address": "Jl. Alternatif Cibubur, Harjamukti, Kec. Cimanggis, Kota Depok, Jawa Barat 16454",
+            "map": "https://www.google.com/maps/dir//-6.3685452649147045, 106.90708668874386"
+        },
+        {
+            "id": "3",
+            "name_location": "LIMO",
+            "address": "Jl. Limo Raya No.36, RT.3/RW.2, Limo, Kec. Limo, Kota Depok, Jawa Barat 16514",
+            "map": "https://www.google.com/maps/dir//-6.3672751038094875, 106.77469458176705"
+        },
+        {
+            "id": "4",
+            "name_location": "CINERE",
+            "address": "Jl. Cinere Raya No.28 B, Cinere, Kec. Cinere, Kota Depok, Jawa Barat 16514",
+            "map": "https://www.google.com/maps/dir//-6.33218, 106.78318"
+        },
+        {
+            "id": "5",
+            "name_location": "CIPLAZ (Pintu Utama Ciplaz Ramayana Depok/Sebrang ITC Depok)",
+            "address": "Ciplaz Depok, Jl. Margonda Raya Depok, Kecamatan Pancoran Mas, Kota Depok, Jawa Barat 16431 ",
+            "map": "https://www.google.com/maps/dir//-6.3915695552976395, 106.8250103664236"
+        },
+        {
+            "id": "6",
+            "name_location": "TOLE ISKANDAR",
+            "address": "Jl. Tole Iskandar No.9B, RT.1/RW.1, Tirtajaya, Kec. Sukmajaya, Kota Depok, Jawa Barat 16412",
+            "map": "https://www.google.com/maps/dir//-6.40358, 106.83687"
+        },
+        {
+            "id": "7",
+            "name_location": "DTC",
+            "address": "Jl. Raya Sawangan RT 01 RW 011 Rangkapan Jaya Kec. Pancoran Mas Kota Depok",
+            "map": "https://www.google.com/maps/dir//-6.39443,106.79404"
+        },
+        {
+            "id": "8",
+            "name_location": "BEJI",
+            "address": "Jl. H. Asmawi Beji Kota Depok",
+            "map": "https://www.google.com/maps/dir//-6.37984, 106.81385"
+        },
+        {
+            "id": "9",
+            "name_location": "BOJONGSARI",
+            "address": "Jl. Raya Parung - Ciputat No. 84A Bojongsari Baru Kec. Bojongsari Kota Depok Jawa Barat",
+            "map": "https://www.google.com/maps/dir//-6.39813, 106.74272"
+        }
+      ]
+    },
+    {
+      "category": "JAKARTA BARAT",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "JEMBATAN LIMA TAMBORA (Patokan Tukang Gigi Sintet)",
+            "address": "Jl. Kh. Moh. Mansyur No. 66 Rt. 03 / Rw. 05 , Tambora, Kec. Tambora, Jakarta Barat, JKT.W-TAMBORA, Jakarta City, 11220, Indonesia",
+            "map": "https://www.google.com/maps/dir//-6.151653253304511, 106.80764599710939"
+        },
+        {
+            "id": "2",
+            "name_location": "TANJUNG DUREN (Samping PHD)",
+            "address": "Jl. Tj. Duren Barat 11-17, RT.1/RW.4, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470 ",
+            "map": "https://www.google.com/maps/dir//-6.173455682142107, 106.78222436187154"
+        },
+        {
+            "id": "3",
+            "name_location": "CITRA 6 (Patokan Kfc Citra Garden 6)",
+            "address": "Jl. Citra Garden City 6 No. Cc10 Rt.7/Rw.3 , Tegal Alur, Kalideres, Jakarta Barat, JKT.W-KALIDERES, Jakarta City, 11820",
+            "map": "https://www.google.com/maps/dir//-6.1283309049869255, 106.71486918361695"
+        },
+        {
+            "id": "4",
+            "name_location": "KEMANGGISAN (Samping Binus Anggrek)",
+            "address": "Jl. Raya Kebon Jeruk Kompleks Mandala No. 5 Kios Unit C, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530 ",
+            "map": "https://www.google.com/maps/dir//-6.201236806510767, 106.7825690412891"
+        },
+        {
+            "id": "5",
+            "name_location": "MERUYA KEMBANGAN",
+            "address": "Jl. Mina No. 42 RT/RW 02/01, Srengseng Kec. Kembangan Jakarta Barat 11630",
+            "map": "https://www.google.com/maps/dir//-6.19819, 106.75930"
+        },
+        {
+            "id": "6",
+            "name_location": "GREENVILLE",
+            "address": "Jalam Kompleks, Jl. Green Ville Blk. BJ-BK No.5, RT.8/RW.14, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510",
+            "map": "https://www.google.com/maps/dir//-6.16945, 106.77335"
+        },
+        {
+            "id": "7",
+            "name_location": "TOMANG",
+            "address": "Tomang Raya, Jl. Tanjung Raya No. 1-7, RT/RW 03/02, Jatipulo, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11430",
+            "map": "https://www.google.com/maps/dir//-6.17676, 106.80161"
+        }
+      ]
+    },
+    {
+      "category": "JAKARTA PUSAT",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "PECENONGAN",
+            "address": "Jl. Batu Tulis Raya No.48 F Kecamatan Gambir Jakarta Pusat",
+            "map": "https://www.google.com/maps/dir//-6.162895258489794, 106.82573696827359"
+        },
+        {
+            "id": "2",
+            "name_location": "ATRIUM SENEN (Didalam Golden Lamian)",
+            "address": "Plaza Atrium LG, Jl. Senen Raya No.135, Jakarta Pusat 10410 ",
+            "map": "https://www.google.com/maps/dir//-6.183924082667596, 106.84248607084027"
+        },
+        {
+            "id": "3",
+            "name_location": "BENHIL (Disamping Alfamart / Sebrang SDIT Al-Abrar)",
+            "address": "Jl. Bendungan Hilir No. 10 RT 1 / RW 4 Bendungan Hilir, Kec. Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210 ",
+            "map": "https://www.google.com/maps/dir//-6.206210380701959, 106.80985079710966"
+        },
+        {
+            "id": "4",
+            "name_location": "KRAMAT RAYA",
+            "address": "Jalan Kramat Raya No. 71, Kel. Kramat, Kec. Senen, Kota Jakarta Pusat, DKI Jakarta 10450",
+            "map": "https://www.google.com/maps/dir//-6.18890, 106.84676"
+        }
+      ]
+    },
+    {
+      "category": "JAKARTA SELATAN",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "CILEDUG PESANGGRAHAN",
+            "address": "jl. ciledug raya no. 3a rt.1/rw.1 kel. petukangan utara kec. pesanggrahan jakarta selatan 12260",
+            "map": "https://www.google.com/maps/dir//-6.227701823049246, 106.71860314128924"
+        },
+        {
+            "id": "2",
+            "name_location": "TEBET ( Sebrang Circle K)",
+            "address": "Jl. Tebet Timur Dalam II 44-72, RT.3/RW.4, Tebet Tim., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820 ",
+            "map": "https://www.google.com/maps/dir//-6.228076654248629, 106.85580426827387"
+        },
+        {
+            "id": "3",
+            "name_location": "PEJATEN VILLAGE (Lt.LG, Depan Hypermart)",
+            "address": "Pejaten Village Mall, Jl. Warung jati barat RT.01/RW.05, Jati padang Kec. Pasar minggu, Kota Jakarta Selatan Daerah khusus Ibukota jakarta 12540. "
+        },
+        {
+            "id": "4",
+            "name_location": "RAMAYANA PASAR MINGGU",
+            "address": "Jl. Raya Ragunan No.113, RT.1/RW.2, Ps. Minggu, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12520",
+            "map": "https://www.google.com/maps/dir//-6.261356669138233, 106.84363725478175"
+        },
+        {
+            "id": "5",
+            "name_location": "ARTERI PONDOK INDAH (Samping Percetakan Snappy & Fit Hub Arteri)",
+            "address": "Jl. Sultan Iskandar Muda No.11, Kelurahan Pondok Indah, Kebayoran Lama, Jakarta Selatan ",
+            "map": "https://www.google.com/maps/dir//-6.257336971903422, 106.78162002453615"
+        },
+        {
+            "id": "6",
+            "name_location": "SATRIO KUNINGAN (Sebelah Martabak Orins)",
+            "address": "Jl. Prof. DR. Satrio No. 8-39, RT. 17 RW .4 , Karet Kuningan, Setia Budi, Jakarta Selatan, Setiabudi, Jakarta City, 12940",
+            "map": "https://www.google.com/maps/dir//-6.222229026628257, 106.82132381060217"
+        },
+        {
+            "id": "7",
+            "name_location": "TANAH KUSIR",
+            "address": "Depan Stikes, 11, Jl. Bintaro Raya No.10A, RT. 11/RW 10, kebayoran lama itara, kecamatan kebayoran lam, kota jakarta selatan, Daerah khusus ibu kota Jakarta 1224",
+            "map": "https://www.google.com/maps/dir//-6.25320, 106.77420"
+        },
+        {
+            "id": "8",
+            "name_location": "CILANDAK",
+            "address": "Jl. Raya Cilandak KKO No. 3 (Seberang Transmart Carrefour Cilandak) RT.1/RW.5, Ragunan, Pasar Minggu, Jakarta Selatan 12550",
+            "map": "https://www.google.com/maps/dir//-6.309528807775796, 106.81405051245383"
+        },
+        {
+            "id": "9",
+            "name_location": "PANCORAN (Sebelah Bimbingan Belajar Santo Lukas / Sesudah KPP Pratama Mampang Jakrta Selatan)",
+            "address": "Jl. Raya Pasar Minggu No. 2 Kel. Pancoran, Kec. Pancoran, Jakarta Selatan ",
+            "map": "https://www.google.com/maps/dir//-6.261409993313299, 106.84370162779709"
+        },
+        {
+            "id": "10",
+            "name_location": "RAMAYANA CILEDUG",
+            "address": "jl. ciledug raya no. 3a rt.1/rw.1 kel. petukangan utara kec. pesanggrahan jakarta selatan 12260",
+            "map": "https://www.google.com/maps/dir//-6.22729, 106.71760"
+        },
+        {
+            "id": "11",
+            "name_location": "PARAMADINA",
+            "address": "Universitas Paramadina Jl. Gatot Subroto Kav. 97 Mampang Prapatan",
+            "map": "https://www.google.com/maps/dir//-6.24123, 106.83288"
+        },
+        {
+            "id": "12",
+            "name_location": "ITF",
+            "address": "ITF Jakarta",
+            "map": "https://www.google.com/maps/dir//-6.30458, 106.79502"
+        },
+        {
+            "id": "13",
+            "name_location": "JAGAKARSA",
+            "address": "Jl. Moh. Kahfi 1 No, 39 H, RT 01 RW 04 Jagakarsa Jakarta Selatan",
+            "map": "https://www.google.com/maps/dir//-6.32437, 106.81150"
+        }
+      ]
+    },
+    {
+      "category": "JAKARTA TIMUR",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "RAWAMANGUN (Samping Ayam Keprabon)",
+            "address": "Jl. Paus No.8, RT.1/RW.7, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur ",
+            "map": "https://www.google.com/maps/dir//-6.196041507675613, 106.89020867012496"
+        },
+        {
+            "id": "2",
+            "name_location": "CIPINANG MUARA",
+            "address": "Jl. Cipinang Muara Raya No.11-7, RT.6/RW.3, Cipinang Muara, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13420",
+            "map": "https://www.google.com/maps/dir//-6.22333, 106.89145"
+        },
+        {
+            "id": "3",
+            "name_location": "ROXY KLENDER",
+            "address": "Jl. Teratai Putih Raya Jl. Perumnas Raya No.2-3, RT/RW 08/14, Klender, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13440",
+            "map": "https://www.google.com/maps/dir//-6.22038, 106.92351"
+        },
+        {
+            "id": "4",
+            "name_location": "PULO GEBANG",
+            "address": "Jl. Sentiong No. 76 RT 003 RW 004, Pulo Gebang, Kec. Cakung, Kota Jakarta Timur, DKI Jakarta 13950",
+            "map": "https://www.google.com/maps/dir//-6.19918, 106.95601"
+        },
+        {
+            "id": "5",
+            "name_location": "GONGSENG CIJANTUNG",
+            "address": "Jl. Gongseng Raya No. 52, RT.003 /RW.011 Kel. Cijantung, Kec. Pasar Rebo, Jakarta Timur 13770",
+            "map": "https://www.google.com/maps/dir//-6.32611, 106.85942"
+        },
+        {
+            "id": "6",
+            "name_location": "PONDOK BAMBU",
+            "address": "Jl. Pahlawan Revolusi, RT.1/RW.4, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",
+            "map": "https://www.google.com/maps/dir//-623615, 10689762"
+        },
+        {
+            "id": "7",
+            "name_location": "CONDET",
+            "address": "Jl. Condet Raya No.42, RT.2/RW.3, Balekambang, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13530",
+            "map": "https://www.google.com/maps/dir//-6.28597, 106.85530"
+        },
+        {
+            "id": "8",
+            "name_location": "OTISTA",
+            "address": "Jl. Otista Raya No.85, RT.11/RW.9, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13330",
+            "map": "https://www.google.com/maps/dir//-6.23248, 106.86736"
+        }
+      ]
+    },
+    {
+      "category": "JAKARTA UTARA",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "KELAPA GADING",
+            "address": "Jl. Gading Elok Utara, Blok FA2, RT.17/RW.9, East Kelapa Gading, Kelapa Gading, North Jakarta City, Jakarta 14240",
+            "map": "https://www.google.com/maps/dir//-6.16684, 106.90495"
+        },
+        {
+            "id": "2",
+            "name_location": "KOJA",
+            "address": "Jl. Kramat Jaya RT.008/RW.001, Tugu Utara, Kec. Koja, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14260",
+            "map": "https://www.google.com/maps/dir//-6.12381, 106.91668"
+        }
+      ]
+    },
+    {
+      "category": "JEMBER",
+      "location_details": [
+        {
+          "id": 1,
+          "name_location": "POLIJE",
+          "address": "Politeknik Negeri Jember Jl. Mastrip Sumbersari Jember Jawa Timur",
+          "map": "https://www.google.com/maps/dir//-8.16000, 113.72315"
+        }
+      ]
+    },
+    {
+      "category": "KARAWANG",
+      "location_details": [
+        {
+          "id": 1,
+          "name_location": "RAMAYANA",
+          "address": "Jl. Tuparev Karawang Wetan 110Karawang, Nagasari, Kec. Karawang Bar., Kabupaten Karawang, Jawa Barat 41314",
+          "map": "https://www.google.com/maps/dir//-6.3090751, 107.3071180"
+        }
+      ]
+    },
+    {
+      "category": "SEMARANG",
+      "location_details": [
+        {
+          "id": 1,
+          "name_location": "UDINUS",
+          "address": "Universitas Dian Nuswantoro Semarang Jl. Imam Bonjol Semarang Tengah Jawa Tengah",
+          "map": "https://www.google.com/maps/dir//-6.9805248, 110.4084272"
+        }
+      ]
+    },
+    {
+      "category": "SURABAYA",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "MAYJEN",
+            "address": "Ruko Bukit Darmo Boulevard 2D-E, Jl. Mayjen Yono Suwoyo No. 2d, Dukuhpakis, Surabaya",
+            "map": "https://www.google.com/maps/dir//-7.272069573960729, 112.74294318362364"
+        },
+        {
+            "id": "2",
+            "name_location": "MENGANTI",
+            "address": "Jl. Raya Menganti Babatan No.9a, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60227",
+            "map": "https://www.google.com/maps/dir//-731007, 112.67840"
+        },
+        {
+            "id": "3",
+            "name_location": "KERTAJAYA (Ruko 1&2)",
+            "address": "Apartemen Puncak Kertajaya - Jl. Kertajaya Indah Regency, Kel. Keputih, Kec. Sukolilo, Kota Surabaya, Jawa Timur 60111 ",
+            "map": "https://www.google.com/maps/dir//-7.28804, 112.78667"
+        },
+        {
+            "id": "4",
+            "name_location": "PANGLIMA SUDIRMAN",
+            "address": "Jl. Panglima Sudirman No.93, RT.001/ RW.07, Embong Kaliasin, Surabaya, Jawa Timur",
+            "map": "https://www.google.com/maps/dir//-7.272069557171178, 112.74285733123995"
+        }
+      ]
+    },
+    {
+      "category": "TANGERANG",
+      "location_details": [
+        {
+            "id": "1",
+            "name_location": "JUANDA CIPUTAT",
+            "address": "Jl. Ir H. Juanda No.147 RT.2/RW.4, Cemp. Putih Kec. Ciputat Tim. Kota Tangerang Selatan Banten 15412",
+            "map": "https://www.google.com/maps/dir//-6.303068959960583, 106.7593988817666"
+        },
+        {
+            "id": "2",
+            "name_location": "KARANG TENGAH",
+            "address": "Jl. Raden Saleh No.35, RT.001/RW.005, Karang Tengah, Kec. Ciledug, Kota Tangerang, Banten 15157",
+            "map": "https://www.google.com/maps/dir//-6.203190164750851, 106.71693528885757"
+        },
+        {
+            "id": "3",
+            "name_location": "AEON BSD (Lantai 3, Depan Food Carnival)",
+            "address": "AEON Mall BSD, Jl. BSD Raya Utama, Serpong, Tangerang, Banten 15345 ",
+            "map": "https://www.google.com/maps/dir//-6.304393372207216, 106.64406799711023"
+        },
+        {
+            "id": "4",
+            "name_location": "PAMULANG",
+            "address": "Jl. Parakan No.2, RT/RW 01/01, Pd. Benda, Kec. Pamulang, Kota Tangerang Selatan, Banten 15416",
+            "map": "https://www.google.com/maps/dir//-6.34571, 106.71323"
+        },
+        {
+            "id": "5",
+            "name_location": "GRAHA RAYA",
+            "address": "Jl. Boulevard Graha Raya No.11a, Paku Jaya, North Serpong, South Tangerang City, Banten 15220",
+            "map": "https://www.google.com/maps/dir//-6.23602, 106.67833"
+        },
+        {
+            "id": "6",
+            "name_location": "CIATER SERPONG",
+            "address": "Jalan Raya Ciater Maruga No 17 Ciater Serpong, Ciater, Tangerang Selatan, Kota Tangerang Selatan, Banten 15310",
+            "map": "https://www.google.com/maps/dir//-631507, 106.70217"
+        },
+        {
+            "id": "7",
+            "name_location": "BINTARO SEKTOR 5",
+            "address": "Jl. Bintaro Utama 5, Blok E/A2 No.27, Pondok Aren, Tangerang",
+            "map": "https://www.google.com/maps/dir//-6.270094917155099, 106.73089137536839"
+        },
+        {
+            "id": "8",
+            "name_location": "RAMAYANA CIKUPA ( Outdoor Booth )",
+            "address": "Jl. Raya Serang No.KM.16 No.200, Sukamulya, Kec. Cikupa, Tangerang, Banten 15710 ",
+            "map": "https://www.google.com/maps/dir//-6.22881, 106.51437"
+        },
+        {
+            "id": "9",
+            "name_location": "IMAM BONJOL",
+            "address": "Jl. Imam Bonjol, Tangerang, Banten",
+            "map": "https://www.google.com/maps/dir//-6.18001, 106.62694"
+        },
+        {
+            "id": "10",
+            "name_location": "RAYA SERPONG (Samping INDOMARET RAYA SERPONG)",
+            "address": "Sinar Serpong JL Raya Serpong KM 10 No. 18 G, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325 ",
+            "map": "https://www.google.com/maps/dir//-6,2487373, 106,6497571"
+        },
+        {
+            "id": "11",
+            "name_location": "CIPONDOH (Dekat PT Taspen ( PERSERO ) Kantor cabang)",
+            "address": "Jl. KH Hasyim Ashari No.82 C, RT.002/RW.003, Poris Plawad Indah, Kec. Cipondoh, Kota Tangerang, Banten 15141 ",
+            "map": "https://www.google.com/maps/dir//-6.18745, 106.66133"
+        },
+        {
+            "id": "12",
+            "name_location": "KENCANA LOKA BSD",
+            "address": "Jl. Kencana Raya Rawa Buntu Kec. Serpong, Kota Tangerang Selatan",
+            "map": "https://www.google.com/maps/dir//-6.31861, 106.68716"
+        },
+        {
+            "id": "13",
+            "name_location": "CIRENDEU",
+            "address": "Jl. Raya Cirendeu No.34d, Cireundeu, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 16514",
+            "map": "https://www.google.com/maps/dir//-6.30981, 106.77247"
+        },
+        {
+            "id": "14",
+            "name_location": "PERUMNAS 3",
+            "address": "Perumnas 3 Tangerang, Jalan Borobudur, Harapan Kita, Tangerang Kota",
+            "map": "https://www.google.com/maps/dir//-6.21326, 106.60236"
+        },
+        {
+            "id": "15",
+            "name_location": "SUDIMARA",
+            "address": "Jl. Jombang Raya No. 20A Pondok Pucung Pondok Aren Tangerang Selatan",
+            "map": "https://www.google.com/maps/dir//-6.29376, 106.70791"
         }
       ]
     }

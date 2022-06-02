@@ -5,6 +5,7 @@ import MachineDetail from "./components/MachineDetail";
 
 const Routes = () => {
   return (
+    // <BrowserRouter basename="/location">
     <BrowserRouter>
       <Switch>
         <Route exact path="/" component={App} />
